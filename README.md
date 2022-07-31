@@ -4,7 +4,7 @@ This is a simple HTML resume hosted on GitHub Pages
 
 ## To-do List
 
-- [ ] Add the link to your github pages website
+[]:https://fardosa-ibrahim.github.io/myResume/
 - [ ] Add an image
 - [ ] Add bolded text
 - [ ] Add an emoji

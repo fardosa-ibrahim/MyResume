@@ -9,7 +9,7 @@ This is a simple HTML resume hosted on GitHub Pages
 
 )
 
-__MyResume
+**MyResume**
 :pray:
 >a Giff image
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
